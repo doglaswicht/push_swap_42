@@ -1,6 +1,8 @@
 
 # Push_Swap
 
+![count](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM0Z3RicGp4ZmI1c3JwaW91YWZta2xsYzRkaDhydGhxbTN3MzFsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMINTLCSOGdIyEo/giphy.gif)
+
 #### About the Project
 
 Push_swap is a sorting algorithm challenge from 42 School.
