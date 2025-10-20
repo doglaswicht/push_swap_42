@@ -111,7 +111,7 @@ I learned how to:
 
 #### Clone the repository
 ```
-git clone https://github.com/yourusername/push_swap.git
+git clone https://github.com/doglaswicht/push_swap_42
 cd push_swap
 ```
 
